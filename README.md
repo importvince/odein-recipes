@@ -1,1 +1,2 @@
 # odein-recipes
+# This project will be a website that has several pages of recipes. By the end, I will have learned how to build a basic website through HTML using tags, elements, link, and images. All while managing the files using the command line, git, and ultimately GitHub. 
