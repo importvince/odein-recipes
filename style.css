@@ -1,0 +1,26 @@
+.font-adj {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title {
+    background-color: rgba(255, 0, 0, 0.5);
+    color: antiquewhite;
+    font-size: 75px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.list {
+    background-color: rgba(0, 255, 98, 0.5);
+    color: royalblue;
+    font-size: 35px;
+    text-align: left;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    image-orientation: flip;
+    align-self: center;
+}
